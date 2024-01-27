@@ -1,0 +1,18 @@
+-> Resume :
+- Les attribut est des variables ou un objets nécessairse au fonctionnement de l'objet.
+- quand on mets dans un code "this" cela veut dire que nous avons affaire a un attribut.
+-
+-Le mot "private" veut dire que l'attribut qui est déclare en privée est accessible a la classe au quel il est attribue ou modifie
+-Les attributs sont privée on interdit la modification ou l'accés direct aux attribut depuis l'extérieur d'une classe.
+
+
+
+
+Conduite a suivre pour le mettre dans notre serveur:
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nyamarinette/09-attributs.git
+git push -u origin main
